@@ -1,16 +1,21 @@
-# simple_analog_clock
+# Simple Analog Clock App
 
-A new Flutter project.
+A minimalist analog clock app built with Flutter that displays the local time. It also features light and dark themes.
 
-## Getting Started
+## 🌟 Features
 
-This project is a starting point for a Flutter application.
+- 🕰 Analog clock face displaying local time.
+- 🌞🌚 Light and Dark mode toggle.
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Used Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Provider](https://pub.dev/packages/provider): State management solution.
+- [Flutter SVG](https://pub.dev/packages/flutter_svg): Enables SVG format support.
+- [Google Fonts](https://pub.dev/packages/google_fonts): Introduces a variety of fonts to enhance the UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼 Screenshots
+
+<p align="center">
+<img alt="Light Mode" width="150" src="lib/screenshots/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-17 at 03.57.28.png">
+<img alt="Dark Mode" width="150" src="https://github.com/pshanmukha/zoom_clone/blob/master/lib/screenshots/googleauth.jpg">
+</p>
