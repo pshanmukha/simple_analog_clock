@@ -1,6 +1,6 @@
 # Simple Analog Clock App
 
-A minimalist analog clock app built with Flutter that displays the local time. It also features light and dark themes.
+A minimalist analog clock app built with Flutter that displays the local time. It also features light and dark themes. Responsive design ensures a seamless experience across devices, while the user-friendly interface makes time-checking a delightful experience.
 
 ## 🌟 Features
 
