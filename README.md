@@ -6,6 +6,7 @@ A minimalist analog clock app built with Flutter that displays the local time. I
 
 - 🕰 Analog clock face displaying local time.
 - 🌞🌚 Light and Dark mode toggle.
+- ✨ Clean and intuitive UI.
 
 ## 📦 Used Packages
 
@@ -16,6 +17,6 @@ A minimalist analog clock app built with Flutter that displays the local time. I
 ## 🖼 Screenshots
 
 <p align="center">
-<img alt="Light Mode" width="150" src="lib/screenshots/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-17 at 03.57.28.png">
-<img alt="Dark Mode" width="150" src="https://github.com/pshanmukha/zoom_clone/blob/master/lib/screenshots/googleauth.jpg">
+<img alt="Light Mode" width="150" src="https://github.com/pshanmukha/simple_analog_clock/blob/main/lib/screenshots/lightmode.png">
+<img alt="Dark Mode" width="150" src="https://github.com/pshanmukha/simple_analog_clock/blob/main/lib/screenshots/darkmode.png">
 </p>
